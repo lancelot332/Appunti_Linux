@@ -21,8 +21,8 @@ Si usa per mostrare la drectory corrente
 
 ## mkdir
 Si usa per creare una directory  
-Sintassi: mkdir [opzioni] [nome della directory]
-##Varie opzioni
+Sintassi: mkdir [opzioni] [nome della directory]  
+## Varie opzioni
 -p: crea directory genitore  
 esempio: mkdir -p dir1/dir2/dir3
 -m puoi impostare i permessi della directory  
